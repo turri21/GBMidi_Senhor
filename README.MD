@@ -1,3 +1,8 @@
+-=(GBMidi_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # GBMidi core for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 A sound module for sending midi data to the sound hardware of a Game Boy (or multiple), utilizing gbc_snd from Gameboy_MiSTer by Tim Harbaum and Sorgelig, and using code from Input Tester by JimmyStones (see below).
